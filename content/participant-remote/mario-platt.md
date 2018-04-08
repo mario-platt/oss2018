@@ -1,14 +1,14 @@
----
+ ---
 title           : Mario Platt
 type            : participant-remote
-job_title       :
-company         :
+job_title       : Head of Information Security Assurance
+company         : Dixons Carphone Group
 image           :
-linkedin        :
+linkedin        : https://www.linkedin.com/in/marioplatt/
 twitter         :
-facebook        :
+facebook        : https://www.facebook.com/mario.platt
 website         :
-email           :
+email           : mplatt@gmail.com
 project_leader  :
 chapter_leader  :
 regonline       :
