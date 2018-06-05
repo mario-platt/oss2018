@@ -35,6 +35,8 @@ sessions        :
     - JIRA Risk Workflow
     - Meet the ICO
     - Security Playbooks
+    - DevSecOps Maturity Model (DSOMM)
+    - Using maps to define how to capture, detect and prevent 6 real-world security incidents
 ---
 
 <!-- put more details about participant here -->
